@@ -26,7 +26,7 @@ impl Belt {
         Belt {
             items_on_belt: [Entity::PLACEHOLDER],
             next_belt: Entity::PLACEHOLDER,
-        };
+        }
     }
 }
 
